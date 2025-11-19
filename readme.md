@@ -24,7 +24,7 @@ A Python-based voice-controlled AI assistant that can perform various tasks incl
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/amanjaiswal1818/nova.git
+git clone https://github.com/amanjaiswal1818/NOVA.git
 cd nova-assistant
 ```
 
@@ -195,5 +195,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or support, please open an issue on GitHub.
 
 ---
+
 
 **⚠️ Warning**: The shutdown command will immediately turn off your computer. Use with caution!
